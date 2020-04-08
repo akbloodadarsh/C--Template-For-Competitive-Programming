@@ -1,2 +1,2 @@
-# C-Template-For-Competitive-Programming
+# C++-Template-For-Competitive-Programming
 Templates For CP
